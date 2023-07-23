@@ -17,7 +17,7 @@ Follow the step-by-step instructions below to build the game from scratch using 
 
 ### Step 1: Set Up the Game
 1. Create a new HTML file (e.g., `index.html`) and a new JavaScript file (e.g., `game.js`).
-2. Link the JavaScript file to your HTML file using the `<game>` tag.
+2. Link the JavaScript file to your HTML file using the `<script>` tag.
 
 ### Step 2: Initialize the Game
 1. In your `game.js` file, start by declaring an array called `choices`, which should contain the three options: "rock," "paper," and "scissors."
